@@ -1,0 +1,37 @@
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans
+	http://www.springframework.org/schema/beans/spring-beans-2.5.xsd">
+	
+	<bean id="projectPropertyConfigurer"
+		class="org.springframework.beans.factory.config.PropertyPlaceholderConfigurer">
+		<property name="location">
+			<value>classpath:foo/project.properties</value>
+		</property>
+	</bean>
+	
+ 
+	<bean id="DatabaseWriter" class="foo.DatabaseWriter">
+		<property name="databaseLocation" value="${db.destinationDataLocation}" />
+		<property name="userID" value="${db.userID}" />
+		<property name="password" value="${db.password}" />
+		<property name="jdbcDriver" value="${db.databaseJDBCDriver}" />
+		<property name="fileLocation" value="${db.inputFileName}" />
+	</bean>
+	
+	<bean id="DatabaseReader" class="foo.DatabaseReader">
+		<property name="databaseLocation" value="${db.sourceDataLocation}" />
+		<property name="userID" value="${db.userID}" />
+		<property name="password" value="${db.password}" />
+		<property name="jdbcDriver" value="${db.databaseJDBCDriver}" />
+		<property name="fileLocation" value="${db.outputFileName}" />
+	</bean>
+	
+	<bean id="DoSomething" class="foo.DoSomething">
+		<property name="databaseLocation" value="${db.destinationDataLocation}" />
+		<property name="userID" value="${db.userID}" />
+		<property name="password" value="${db.password}" />
+		<property name="jdbcDriver" value="${db.databaseJDBCDriver}" />
+	</bean>
+ 
+</beans>

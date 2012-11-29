@@ -1,0 +1,459 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dataset>
+  <city ID="1" Name="Kabul" CountryCode="AFG" District="Kabol" Population="1780010"/>
+  <city ID="2" Name="Qandahar" CountryCode="AFG" District="Qandahar" Population="237500"/>
+  <city ID="3" Name="Herat" CountryCode="AFG" District="Herat" Population="186800"/>
+  <city ID="4" Name="Mazar-e-Sharif" CountryCode="AFG" District="Balkh" Population="127800"/>
+  <city ID="5" Name="Amsterdam" CountryCode="NLD" District="Noord-Holland" Population="731200"/>
+  <city ID="6" Name="Rotterdam" CountryCode="NLD" District="Zuid-Holland" Population="593321"/>
+  <city ID="7" Name="Haag" CountryCode="NLD" District="Zuid-Holland" Population="440900"/>
+  <city ID="8" Name="Utrecht" CountryCode="NLD" District="Utrecht" Population="234323"/>
+  <city ID="9" Name="Eindhoven" CountryCode="NLD" District="Noord-Brabant" Population="201843"/>
+  <city ID="10" Name="Tilburg" CountryCode="NLD" District="Noord-Brabant" Population="193238"/>
+  <city ID="11" Name="Groningen" CountryCode="NLD" District="Groningen" Population="172701"/>
+  <city ID="12" Name="Breda" CountryCode="NLD" District="Noord-Brabant" Population="160398"/>
+  <city ID="13" Name="Apeldoorn" CountryCode="NLD" District="Gelderland" Population="153491"/>
+  <city ID="14" Name="Nijmegen" CountryCode="NLD" District="Gelderland" Population="152463"/>
+  <city ID="15" Name="Enschede" CountryCode="NLD" District="Overijssel" Population="149544"/>
+  <city ID="16" Name="Haarlem" CountryCode="NLD" District="Noord-Holland" Population="148772"/>
+  <city ID="17" Name="Almere" CountryCode="NLD" District="Flevoland" Population="142465"/>
+  <city ID="18" Name="Arnhem" CountryCode="NLD" District="Gelderland" Population="138020"/>
+  <city ID="19" Name="Zaanstad" CountryCode="NLD" District="Noord-Holland" Population="135621"/>
+  <city ID="20" Name="&#194;&#180;s-Hertogenbosch" CountryCode="NLD" District="Noord-Brabant" Population="129170"/>
+  <city ID="21" Name="Amersfoort" CountryCode="NLD" District="Utrecht" Population="126270"/>
+  <city ID="22" Name="Maastricht" CountryCode="NLD" District="Limburg" Population="122087"/>
+  <city ID="23" Name="Dordrecht" CountryCode="NLD" District="Zuid-Holland" Population="119811"/>
+  <city ID="24" Name="Leiden" CountryCode="NLD" District="Zuid-Holland" Population="117196"/>
+  <city ID="25" Name="Haarlemmermeer" CountryCode="NLD" District="Noord-Holland" Population="110722"/>
+  <city ID="26" Name="Zoetermeer" CountryCode="NLD" District="Zuid-Holland" Population="110214"/>
+  <city ID="27" Name="Emmen" CountryCode="NLD" District="Drenthe" Population="105853"/>
+  <city ID="28" Name="Zwolle" CountryCode="NLD" District="Overijssel" Population="105819"/>
+  <city ID="29" Name="Ede" CountryCode="NLD" District="Gelderland" Population="101574"/>
+  <city ID="30" Name="Delft" CountryCode="NLD" District="Zuid-Holland" Population="95268"/>
+  <city ID="31" Name="Heerlen" CountryCode="NLD" District="Limburg" Population="95052"/>
+  <city ID="32" Name="Alkmaar" CountryCode="NLD" District="Noord-Holland" Population="92713"/>
+  <city ID="33" Name="Willemstad" CountryCode="ANT" District="Cura&#195;&#167;ao" Population="2345"/>
+  <city ID="34" Name="Tirana" CountryCode="ALB" District="Tirana" Population="270000"/>
+  <city ID="35" Name="Alger" CountryCode="DZA" District="Alger" Population="2168000"/>
+  <city ID="36" Name="Oran" CountryCode="DZA" District="Oran" Population="609823"/>
+  <city ID="37" Name="Constantine" CountryCode="DZA" District="Constantine" Population="443727"/>
+  <city ID="38" Name="Annaba" CountryCode="DZA" District="Annaba" Population="222518"/>
+  <city ID="39" Name="Batna" CountryCode="DZA" District="Batna" Population="183377"/>
+  <city ID="40" Name="S&#195;&#169;tif" CountryCode="DZA" District="S&#195;&#169;tif" Population="179055"/>
+  <city ID="41" Name="Sidi Bel Abb&#195;&#168;s" CountryCode="DZA" District="Sidi Bel Abb&#195;&#168;s" Population="153106"/>
+  <city ID="42" Name="Skikda" CountryCode="DZA" District="Skikda" Population="128747"/>
+  <city ID="43" Name="Biskra" CountryCode="DZA" District="Biskra" Population="128281"/>
+  <city ID="44" Name="Blida (el-Boulaida)" CountryCode="DZA" District="Blida" Population="127284"/>
+  <city ID="45" Name="B&#195;&#169;ja&#195;&#175;a" CountryCode="DZA" District="B&#195;&#169;ja&#195;&#175;a" Population="117162"/>
+  <city ID="46" Name="Mostaganem" CountryCode="DZA" District="Mostaganem" Population="115212"/>
+  <city ID="47" Name="T&#195;&#169;bessa" CountryCode="DZA" District="T&#195;&#169;bessa" Population="112007"/>
+  <city ID="48" Name="Tlemcen (Tilimsen)" CountryCode="DZA" District="Tlemcen" Population="110242"/>
+  <city ID="49" Name="B&#195;&#169;char" CountryCode="DZA" District="B&#195;&#169;char" Population="107311"/>
+  <city ID="50" Name="Tiaret" CountryCode="DZA" District="Tiaret" Population="100118"/>
+  <city ID="51" Name="Ech-Chleff (el-Asnam)" CountryCode="DZA" District="Chlef" Population="96794"/>
+  <city ID="52" Name="Gharda&#195;&#175;a" CountryCode="DZA" District="Gharda&#195;&#175;a" Population="89415"/>
+  <city ID="53" Name="Tafuna" CountryCode="ASM" District="Tutuila" Population="5200"/>
+  <city ID="54" Name="Fagatogo" CountryCode="ASM" District="Tutuila" Population="2323"/>
+  <city ID="55" Name="Andorra la Vella" CountryCode="AND" District="Andorra la Vella" Population="21189"/>
+  <city ID="56" Name="Luanda" CountryCode="AGO" District="Luanda" Population="2022000"/>
+  <city ID="57" Name="Huambo" CountryCode="AGO" District="Huambo" Population="163100"/>
+  <city ID="58" Name="Lobito" CountryCode="AGO" District="Benguela" Population="130000"/>
+  <city ID="59" Name="Benguela" CountryCode="AGO" District="Benguela" Population="128300"/>
+  <city ID="60" Name="Namibe" CountryCode="AGO" District="Namibe" Population="118200"/>
+  <city ID="61" Name="South Hill" CountryCode="AIA" District="&#194;&#8211;" Population="961"/>
+  <city ID="62" Name="The Valley" CountryCode="AIA" District="&#194;&#8211;" Population="595"/>
+  <city ID="63" Name="Saint John&#194;&#180;s" CountryCode="ATG" District="St John" Population="24000"/>
+  <city ID="64" Name="Dubai" CountryCode="ARE" District="Dubai" Population="669181"/>
+  <city ID="65" Name="Abu Dhabi" CountryCode="ARE" District="Abu Dhabi" Population="398695"/>
+  <city ID="66" Name="Sharja" CountryCode="ARE" District="Sharja" Population="320095"/>
+  <city ID="67" Name="al-Ayn" CountryCode="ARE" District="Abu Dhabi" Population="225970"/>
+  <city ID="68" Name="Ajman" CountryCode="ARE" District="Ajman" Population="114395"/>
+  <city ID="69" Name="Buenos Aires" CountryCode="ARG" District="Distrito Federal" Population="2982146"/>
+  <city ID="70" Name="La Matanza" CountryCode="ARG" District="Buenos Aires" Population="1266461"/>
+  <city ID="71" Name="C&#195;&#179;rdoba" CountryCode="ARG" District="C&#195;&#179;rdoba" Population="1157507"/>
+  <city ID="72" Name="Rosario" CountryCode="ARG" District="Santa F&#195;&#169;" Population="907718"/>
+  <city ID="73" Name="Lomas de Zamora" CountryCode="ARG" District="Buenos Aires" Population="622013"/>
+  <city ID="74" Name="Quilmes" CountryCode="ARG" District="Buenos Aires" Population="559249"/>
+  <city ID="75" Name="Almirante Brown" CountryCode="ARG" District="Buenos Aires" Population="538918"/>
+  <city ID="76" Name="La Plata" CountryCode="ARG" District="Buenos Aires" Population="521936"/>
+  <city ID="77" Name="Mar del Plata" CountryCode="ARG" District="Buenos Aires" Population="512880"/>
+  <city ID="78" Name="San Miguel de Tucum&#195;&#161;n" CountryCode="ARG" District="Tucum&#195;&#161;n" Population="470809"/>
+  <city ID="79" Name="Lan&#195;&#186;s" CountryCode="ARG" District="Buenos Aires" Population="469735"/>
+  <city ID="80" Name="Merlo" CountryCode="ARG" District="Buenos Aires" Population="463846"/>
+  <city ID="81" Name="General San Mart&#195;&#173;n" CountryCode="ARG" District="Buenos Aires" Population="422542"/>
+  <city ID="82" Name="Salta" CountryCode="ARG" District="Salta" Population="367550"/>
+  <city ID="83" Name="Moreno" CountryCode="ARG" District="Buenos Aires" Population="356993"/>
+  <city ID="84" Name="Santa F&#195;&#169;" CountryCode="ARG" District="Santa F&#195;&#169;" Population="353063"/>
+  <city ID="85" Name="Avellaneda" CountryCode="ARG" District="Buenos Aires" Population="353046"/>
+  <city ID="86" Name="Tres de Febrero" CountryCode="ARG" District="Buenos Aires" Population="352311"/>
+  <city ID="87" Name="Mor&#195;&#179;n" CountryCode="ARG" District="Buenos Aires" Population="349246"/>
+  <city ID="88" Name="Florencio Varela" CountryCode="ARG" District="Buenos Aires" Population="315432"/>
+  <city ID="89" Name="San Isidro" CountryCode="ARG" District="Buenos Aires" Population="306341"/>
+  <city ID="90" Name="Tigre" CountryCode="ARG" District="Buenos Aires" Population="296226"/>
+  <city ID="91" Name="Malvinas Argentinas" CountryCode="ARG" District="Buenos Aires" Population="290335"/>
+  <city ID="92" Name="Vicente L&#195;&#179;pez" CountryCode="ARG" District="Buenos Aires" Population="288341"/>
+  <city ID="93" Name="Berazategui" CountryCode="ARG" District="Buenos Aires" Population="276916"/>
+  <city ID="94" Name="Corrientes" CountryCode="ARG" District="Corrientes" Population="258103"/>
+  <city ID="95" Name="San Miguel" CountryCode="ARG" District="Buenos Aires" Population="248700"/>
+  <city ID="96" Name="Bah&#195;&#173;a Blanca" CountryCode="ARG" District="Buenos Aires" Population="239810"/>
+  <city ID="97" Name="Esteban Echeverr&#195;&#173;a" CountryCode="ARG" District="Buenos Aires" Population="235760"/>
+  <city ID="98" Name="Resistencia" CountryCode="ARG" District="Chaco" Population="229212"/>
+  <city ID="99" Name="Jos&#195;&#169; C. Paz" CountryCode="ARG" District="Buenos Aires" Population="221754"/>
+  <city ID="100" Name="Paran&#195;&#161;" CountryCode="ARG" District="Entre Rios" Population="207041"/>
+  <city ID="101" Name="Godoy Cruz" CountryCode="ARG" District="Mendoza" Population="206998"/>
+  <city ID="102" Name="Posadas" CountryCode="ARG" District="Misiones" Population="201273"/>
+  <city ID="103" Name="Guaymall&#195;&#169;n" CountryCode="ARG" District="Mendoza" Population="200595"/>
+  <city ID="104" Name="Santiago del Estero" CountryCode="ARG" District="Santiago del Estero" Population="189947"/>
+  <city ID="105" Name="San Salvador de Jujuy" CountryCode="ARG" District="Jujuy" Population="178748"/>
+  <city ID="106" Name="Hurlingham" CountryCode="ARG" District="Buenos Aires" Population="170028"/>
+  <city ID="107" Name="Neuqu&#195;&#169;n" CountryCode="ARG" District="Neuqu&#195;&#169;n" Population="167296"/>
+  <city ID="108" Name="Ituzaing&#195;&#179;" CountryCode="ARG" District="Buenos Aires" Population="158197"/>
+  <city ID="109" Name="San Fernando" CountryCode="ARG" District="Buenos Aires" Population="153036"/>
+  <city ID="110" Name="Formosa" CountryCode="ARG" District="Formosa" Population="147636"/>
+  <city ID="111" Name="Las Heras" CountryCode="ARG" District="Mendoza" Population="145823"/>
+  <city ID="112" Name="La Rioja" CountryCode="ARG" District="La Rioja" Population="138117"/>
+  <city ID="113" Name="San Fernando del Valle de Cata" CountryCode="ARG" District="Catamarca" Population="134935"/>
+  <city ID="114" Name="R&#195;&#173;o Cuarto" CountryCode="ARG" District="C&#195;&#179;rdoba" Population="134355"/>
+  <city ID="115" Name="Comodoro Rivadavia" CountryCode="ARG" District="Chubut" Population="124104"/>
+  <city ID="116" Name="Mendoza" CountryCode="ARG" District="Mendoza" Population="123027"/>
+  <city ID="117" Name="San Nicol&#195;&#161;s de los Arroyos" CountryCode="ARG" District="Buenos Aires" Population="119302"/>
+  <city ID="118" Name="San Juan" CountryCode="ARG" District="San Juan" Population="119152"/>
+  <city ID="119" Name="Escobar" CountryCode="ARG" District="Buenos Aires" Population="116675"/>
+  <city ID="120" Name="Concordia" CountryCode="ARG" District="Entre Rios" Population="116485"/>
+  <city ID="121" Name="Pilar" CountryCode="ARG" District="Buenos Aires" Population="113428"/>
+  <city ID="122" Name="San Luis" CountryCode="ARG" District="San Luis" Population="110136"/>
+  <city ID="123" Name="Ezeiza" CountryCode="ARG" District="Buenos Aires" Population="99578"/>
+  <city ID="124" Name="San Rafael" CountryCode="ARG" District="Mendoza" Population="94651"/>
+  <city ID="125" Name="Tandil" CountryCode="ARG" District="Buenos Aires" Population="91101"/>
+  <city ID="126" Name="Yerevan" CountryCode="ARM" District="Yerevan" Population="1248700"/>
+  <city ID="127" Name="Gjumri" CountryCode="ARM" District="&#194;&#352;irak" Population="211700"/>
+  <city ID="128" Name="Vanadzor" CountryCode="ARM" District="Lori" Population="172700"/>
+  <city ID="129" Name="Oranjestad" CountryCode="ABW" District="&#194;&#8211;" Population="29034"/>
+  <city ID="130" Name="Sydney" CountryCode="AUS" District="New South Wales" Population="3276207"/>
+  <city ID="131" Name="Melbourne" CountryCode="AUS" District="Victoria" Population="2865329"/>
+  <city ID="132" Name="Brisbane" CountryCode="AUS" District="Queensland" Population="1291117"/>
+  <city ID="133" Name="Perth" CountryCode="AUS" District="West Australia" Population="1096829"/>
+  <city ID="134" Name="Adelaide" CountryCode="AUS" District="South Australia" Population="978100"/>
+  <city ID="135" Name="Canberra" CountryCode="AUS" District="Capital Region" Population="322723"/>
+  <city ID="136" Name="Gold Coast" CountryCode="AUS" District="Queensland" Population="311932"/>
+  <city ID="137" Name="Newcastle" CountryCode="AUS" District="New South Wales" Population="270324"/>
+  <city ID="138" Name="Central Coast" CountryCode="AUS" District="New South Wales" Population="227657"/>
+  <city ID="139" Name="Wollongong" CountryCode="AUS" District="New South Wales" Population="219761"/>
+  <city ID="140" Name="Hobart" CountryCode="AUS" District="Tasmania" Population="126118"/>
+  <city ID="141" Name="Geelong" CountryCode="AUS" District="Victoria" Population="125382"/>
+  <city ID="142" Name="Townsville" CountryCode="AUS" District="Queensland" Population="109914"/>
+  <city ID="143" Name="Cairns" CountryCode="AUS" District="Queensland" Population="92273"/>
+  <city ID="144" Name="Baku" CountryCode="AZE" District="Baki" Population="1787800"/>
+  <city ID="145" Name="G&#195;&#164;nc&#195;&#164;" CountryCode="AZE" District="G&#195;&#164;nc&#195;&#164;" Population="299300"/>
+  <city ID="146" Name="Sumqayit" CountryCode="AZE" District="Sumqayit" Population="283000"/>
+  <city ID="147" Name="Ming&#195;&#164;&#195;&#167;evir" CountryCode="AZE" District="Ming&#195;&#164;&#195;&#167;evir" Population="93900"/>
+  <city ID="148" Name="Nassau" CountryCode="BHS" District="New Providence" Population="172000"/>
+  <city ID="149" Name="al-Manama" CountryCode="BHR" District="al-Manama" Population="148000"/>
+  <city ID="150" Name="Dhaka" CountryCode="BGD" District="Dhaka" Population="3612850"/>
+  <city ID="151" Name="Chittagong" CountryCode="BGD" District="Chittagong" Population="1392860"/>
+  <city ID="152" Name="Khulna" CountryCode="BGD" District="Khulna" Population="663340"/>
+  <city ID="153" Name="Rajshahi" CountryCode="BGD" District="Rajshahi" Population="294056"/>
+  <city ID="154" Name="Narayanganj" CountryCode="BGD" District="Dhaka" Population="202134"/>
+  <city ID="155" Name="Rangpur" CountryCode="BGD" District="Rajshahi" Population="191398"/>
+  <city ID="156" Name="Mymensingh" CountryCode="BGD" District="Dhaka" Population="188713"/>
+  <city ID="157" Name="Barisal" CountryCode="BGD" District="Barisal" Population="170232"/>
+  <city ID="158" Name="Tungi" CountryCode="BGD" District="Dhaka" Population="168702"/>
+  <city ID="159" Name="Jessore" CountryCode="BGD" District="Khulna" Population="139710"/>
+  <city ID="160" Name="Comilla" CountryCode="BGD" District="Chittagong" Population="135313"/>
+  <city ID="161" Name="Nawabganj" CountryCode="BGD" District="Rajshahi" Population="130577"/>
+  <city ID="162" Name="Dinajpur" CountryCode="BGD" District="Rajshahi" Population="127815"/>
+  <city ID="163" Name="Bogra" CountryCode="BGD" District="Rajshahi" Population="120170"/>
+  <city ID="164" Name="Sylhet" CountryCode="BGD" District="Sylhet" Population="117396"/>
+  <city ID="165" Name="Brahmanbaria" CountryCode="BGD" District="Chittagong" Population="109032"/>
+  <city ID="166" Name="Tangail" CountryCode="BGD" District="Dhaka" Population="106004"/>
+  <city ID="167" Name="Jamalpur" CountryCode="BGD" District="Dhaka" Population="103556"/>
+  <city ID="168" Name="Pabna" CountryCode="BGD" District="Rajshahi" Population="103277"/>
+  <city ID="169" Name="Naogaon" CountryCode="BGD" District="Rajshahi" Population="101266"/>
+  <city ID="170" Name="Sirajganj" CountryCode="BGD" District="Rajshahi" Population="99669"/>
+  <city ID="171" Name="Narsinghdi" CountryCode="BGD" District="Dhaka" Population="98342"/>
+  <city ID="172" Name="Saidpur" CountryCode="BGD" District="Rajshahi" Population="96777"/>
+  <city ID="173" Name="Gazipur" CountryCode="BGD" District="Dhaka" Population="96717"/>
+  <city ID="174" Name="Bridgetown" CountryCode="BRB" District="St Michael" Population="6070"/>
+  <city ID="175" Name="Antwerpen" CountryCode="BEL" District="Antwerpen" Population="446525"/>
+  <city ID="176" Name="Gent" CountryCode="BEL" District="East Flanderi" Population="224180"/>
+  <city ID="177" Name="Charleroi" CountryCode="BEL" District="Hainaut" Population="200827"/>
+  <city ID="178" Name="Li&#195;&#168;ge" CountryCode="BEL" District="Li&#195;&#168;ge" Population="185639"/>
+  <city ID="179" Name="Bruxelles [Brussel]" CountryCode="BEL" District="Bryssel" Population="133859"/>
+  <city ID="180" Name="Brugge" CountryCode="BEL" District="West Flanderi" Population="116246"/>
+  <city ID="181" Name="Schaerbeek" CountryCode="BEL" District="Bryssel" Population="105692"/>
+  <city ID="182" Name="Namur" CountryCode="BEL" District="Namur" Population="105419"/>
+  <city ID="183" Name="Mons" CountryCode="BEL" District="Hainaut" Population="90935"/>
+  <city ID="184" Name="Belize City" CountryCode="BLZ" District="Belize City" Population="55810"/>
+  <city ID="185" Name="Belmopan" CountryCode="BLZ" District="Cayo" Population="7105"/>
+  <city ID="186" Name="Cotonou" CountryCode="BEN" District="Atlantique" Population="536827"/>
+  <city ID="187" Name="Porto-Novo" CountryCode="BEN" District="Ou&#195;&#169;m&#195;&#169;" Population="194000"/>
+  <city ID="188" Name="Djougou" CountryCode="BEN" District="Atacora" Population="134099"/>
+  <city ID="189" Name="Parakou" CountryCode="BEN" District="Borgou" Population="103577"/>
+  <city ID="190" Name="Saint George" CountryCode="BMU" District="Saint George&#194;&#180;s" Population="1800"/>
+  <city ID="191" Name="Hamilton" CountryCode="BMU" District="Hamilton" Population="1200"/>
+  <city ID="192" Name="Thimphu" CountryCode="BTN" District="Thimphu" Population="22000"/>
+  <city ID="193" Name="Santa Cruz de la Sierra" CountryCode="BOL" District="Santa Cruz" Population="935361"/>
+  <city ID="194" Name="La Paz" CountryCode="BOL" District="La Paz" Population="758141"/>
+  <city ID="195" Name="El Alto" CountryCode="BOL" District="La Paz" Population="534466"/>
+  <city ID="196" Name="Cochabamba" CountryCode="BOL" District="Cochabamba" Population="482800"/>
+  <city ID="197" Name="Oruro" CountryCode="BOL" District="Oruro" Population="223553"/>
+  <city ID="198" Name="Sucre" CountryCode="BOL" District="Chuquisaca" Population="178426"/>
+  <city ID="199" Name="Potos&#195;&#173;" CountryCode="BOL" District="Potos&#195;&#173;" Population="140642"/>
+  <city ID="200" Name="Tarija" CountryCode="BOL" District="Tarija" Population="125255"/>
+  <city ID="201" Name="Sarajevo" CountryCode="BIH" District="Federaatio" Population="360000"/>
+  <city ID="202" Name="Banja Luka" CountryCode="BIH" District="Republika Srpska" Population="143079"/>
+  <city ID="203" Name="Zenica" CountryCode="BIH" District="Federaatio" Population="96027"/>
+  <city ID="204" Name="Gaborone" CountryCode="BWA" District="Gaborone" Population="213017"/>
+  <city ID="205" Name="Francistown" CountryCode="BWA" District="Francistown" Population="101805"/>
+  <city ID="206" Name="S&#195;&#163;o Paulo" CountryCode="BRA" District="S&#195;&#163;o Paulo" Population="9968485"/>
+  <city ID="207" Name="Rio de Janeiro" CountryCode="BRA" District="Rio de Janeiro" Population="5598953"/>
+  <city ID="208" Name="Salvador" CountryCode="BRA" District="Bahia" Population="2302832"/>
+  <city ID="209" Name="Belo Horizonte" CountryCode="BRA" District="Minas Gerais" Population="2139125"/>
+  <city ID="210" Name="Fortaleza" CountryCode="BRA" District="Cear&#195;&#161;" Population="2097757"/>
+  <city ID="211" Name="Bras&#195;&#173;lia" CountryCode="BRA" District="Distrito Federal" Population="1969868"/>
+  <city ID="212" Name="Curitiba" CountryCode="BRA" District="Paran&#195;&#161;" Population="1584232"/>
+  <city ID="213" Name="Recife" CountryCode="BRA" District="Pernambuco" Population="1378087"/>
+  <city ID="214" Name="Porto Alegre" CountryCode="BRA" District="Rio Grande do Sul" Population="1314032"/>
+  <city ID="215" Name="Manaus" CountryCode="BRA" District="Amazonas" Population="1255049"/>
+  <city ID="216" Name="Bel&#195;&#169;m" CountryCode="BRA" District="Par&#195;&#161;" Population="1186926"/>
+  <city ID="217" Name="Guarulhos" CountryCode="BRA" District="S&#195;&#163;o Paulo" Population="1095874"/>
+  <city ID="218" Name="Goi&#195;&#162;nia" CountryCode="BRA" District="Goi&#195;&#161;s" Population="1056330"/>
+  <city ID="219" Name="Campinas" CountryCode="BRA" District="S&#195;&#163;o Paulo" Population="950043"/>
+  <city ID="220" Name="S&#195;&#163;o Gon&#195;&#167;alo" CountryCode="BRA" District="Rio de Janeiro" Population="869254"/>
+  <city ID="221" Name="Nova Igua&#195;&#167;u" CountryCode="BRA" District="Rio de Janeiro" Population="862225"/>
+  <city ID="222" Name="S&#195;&#163;o Lu&#195;&#173;s" CountryCode="BRA" District="Maranh&#195;&#163;o" Population="837588"/>
+  <city ID="223" Name="Macei&#195;&#179;" CountryCode="BRA" District="Alagoas" Population="786288"/>
+  <city ID="224" Name="Duque de Caxias" CountryCode="BRA" District="Rio de Janeiro" Population="746758"/>
+  <city ID="225" Name="S&#195;&#163;o Bernardo do Campo" CountryCode="BRA" District="S&#195;&#163;o Paulo" Population="723132"/>
+  <city ID="226" Name="Teresina" CountryCode="BRA" District="Piau&#195;&#173;" Population="691942"/>
+  <city ID="227" Name="Natal" CountryCode="BRA" District="Rio Grande do Norte" Population="688955"/>
+  <city ID="228" Name="Osasco" CountryCode="BRA" District="S&#195;&#163;o Paulo" Population="659604"/>
+  <city ID="229" Name="Campo Grande" CountryCode="BRA" District="Mato Grosso do Sul" Population="649593"/>
+  <city ID="230" Name="Santo Andr&#195;&#169;" CountryCode="BRA" District="S&#195;&#163;o Paulo" Population="630073"/>
+  <city ID="231" Name="Jo&#195;&#163;o Pessoa" CountryCode="BRA" District="Para&#195;&#173;ba" Population="584029"/>
+  <city ID="232" Name="Jaboat&#195;&#163;o dos Guararapes" CountryCode="BRA" District="Pernambuco" Population="558680"/>
+  <city ID="233" Name="Contagem" CountryCode="BRA" District="Minas Gerais" Population="520801"/>
+  <city ID="234" Name="S&#195;&#163;o Jos&#195;&#169; dos Campos" CountryCode="BRA" District="S&#195;&#163;o Paulo" Population="515553"/>
+  <city ID="235" Name="Uberl&#195;&#162;ndia" CountryCode="BRA" District="Minas Gerais" Population="487222"/>
+  <city ID="236" Name="Feira de Santana" CountryCode="BRA" District="Bahia" Population="479992"/>
+  <city ID="237" Name="Ribeir&#195;&#163;o Preto" CountryCode="BRA" District="S&#195;&#163;o Paulo" Population="473276"/>
+  <city ID="238" Name="Sorocaba" CountryCode="BRA" District="S&#195;&#163;o Paulo" Population="466823"/>
+  <city ID="239" Name="Niter&#195;&#179;i" CountryCode="BRA" District="Rio de Janeiro" Population="459884"/>
+  <city ID="240" Name="Cuiab&#195;&#161;" CountryCode="BRA" District="Mato Grosso" Population="453813"/>
+  <city ID="241" Name="Juiz de Fora" CountryCode="BRA" District="Minas Gerais" Population="450288"/>
+  <city ID="242" Name="Aracaju" CountryCode="BRA" District="Sergipe" Population="445555"/>
+  <city ID="243" Name="S&#195;&#163;o Jo&#195;&#163;o de Meriti" CountryCode="BRA" District="Rio de Janeiro" Population="440052"/>
+  <city ID="244" Name="Londrina" CountryCode="BRA" District="Paran&#195;&#161;" Population="432257"/>
+  <city ID="245" Name="Joinville" CountryCode="BRA" District="Santa Catarina" Population="428011"/>
+  <city ID="246" Name="Belford Roxo" CountryCode="BRA" District="Rio de Janeiro" Population="425194"/>
+  <city ID="247" Name="Santos" CountryCode="BRA" District="S&#195;&#163;o Paulo" Population="408748"/>
+  <city ID="248" Name="Ananindeua" CountryCode="BRA" District="Par&#195;&#161;" Population="400940"/>
+  <city ID="249" Name="Campos dos Goytacazes" CountryCode="BRA" District="Rio de Janeiro" Population="398418"/>
+  <city ID="250" Name="Mau&#195;&#161;" CountryCode="BRA" District="S&#195;&#163;o Paulo" Population="375055"/>
+  <city ID="251" Name="Carapicu&#195;&#173;ba" CountryCode="BRA" District="S&#195;&#163;o Paulo" Population="357552"/>
+  <city ID="252" Name="Olinda" CountryCode="BRA" District="Pernambuco" Population="354732"/>
+  <city ID="253" Name="Campina Grande" CountryCode="BRA" District="Para&#195;&#173;ba" Population="352497"/>
+  <city ID="254" Name="S&#195;&#163;o Jos&#195;&#169; do Rio Preto" CountryCode="BRA" District="S&#195;&#163;o Paulo" Population="351944"/>
+  <city ID="255" Name="Caxias do Sul" CountryCode="BRA" District="Rio Grande do Sul" Population="349581"/>
+  <city ID="256" Name="Moji das Cruzes" CountryCode="BRA" District="S&#195;&#163;o Paulo" Population="339194"/>
+  <city ID="257" Name="Diadema" CountryCode="BRA" District="S&#195;&#163;o Paulo" Population="335078"/>
+  <city ID="258" Name="Aparecida de Goi&#195;&#162;nia" CountryCode="BRA" District="Goi&#195;&#161;s" Population="324662"/>
+  <city ID="259" Name="Piracicaba" CountryCode="BRA" District="S&#195;&#163;o Paulo" Population="319104"/>
+  <city ID="260" Name="Cariacica" CountryCode="BRA" District="Esp&#195;&#173;rito Santo" Population="319033"/>
+  <city ID="261" Name="Vila Velha" CountryCode="BRA" District="Esp&#195;&#173;rito Santo" Population="318758"/>
+  <city ID="262" Name="Pelotas" CountryCode="BRA" District="Rio Grande do Sul" Population="315415"/>
+  <city ID="263" Name="Bauru" CountryCode="BRA" District="S&#195;&#163;o Paulo" Population="313670"/>
+  <city ID="264" Name="Porto Velho" CountryCode="BRA" District="Rond&#195;&#180;nia" Population="309750"/>
+  <city ID="265" Name="Serra" CountryCode="BRA" District="Esp&#195;&#173;rito Santo" Population="302666"/>
+  <city ID="266" Name="Betim" CountryCode="BRA" District="Minas Gerais" Population="302108"/>
+  <city ID="267" Name="Jund&#195;&#173;a&#195;&#173;" CountryCode="BRA" District="S&#195;&#163;o Paulo" Population="296127"/>
+  <city ID="268" Name="Canoas" CountryCode="BRA" District="Rio Grande do Sul" Population="294125"/>
+  <city ID="269" Name="Franca" CountryCode="BRA" District="S&#195;&#163;o Paulo" Population="290139"/>
+  <city ID="270" Name="S&#195;&#163;o Vicente" CountryCode="BRA" District="S&#195;&#163;o Paulo" Population="286848"/>
+  <city ID="271" Name="Maring&#195;&#161;" CountryCode="BRA" District="Paran&#195;&#161;" Population="286461"/>
+  <city ID="272" Name="Montes Claros" CountryCode="BRA" District="Minas Gerais" Population="286058"/>
+  <city ID="273" Name="An&#195;&#161;polis" CountryCode="BRA" District="Goi&#195;&#161;s" Population="282197"/>
+  <city ID="274" Name="Florian&#195;&#179;polis" CountryCode="BRA" District="Santa Catarina" Population="281928"/>
+  <city ID="275" Name="Petr&#195;&#179;polis" CountryCode="BRA" District="Rio de Janeiro" Population="279183"/>
+  <city ID="276" Name="Itaquaquecetuba" CountryCode="BRA" District="S&#195;&#163;o Paulo" Population="270874"/>
+  <city ID="277" Name="Vit&#195;&#179;ria" CountryCode="BRA" District="Esp&#195;&#173;rito Santo" Population="270626"/>
+  <city ID="278" Name="Ponta Grossa" CountryCode="BRA" District="Paran&#195;&#161;" Population="268013"/>
+  <city ID="279" Name="Rio Branco" CountryCode="BRA" District="Acre" Population="259537"/>
+  <city ID="280" Name="Foz do Igua&#195;&#167;u" CountryCode="BRA" District="Paran&#195;&#161;" Population="259425"/>
+  <city ID="281" Name="Macap&#195;&#161;" CountryCode="BRA" District="Amap&#195;&#161;" Population="256033"/>
+  <city ID="282" Name="Ilh&#195;&#169;us" CountryCode="BRA" District="Bahia" Population="254970"/>
+  <city ID="283" Name="Vit&#195;&#179;ria da Conquista" CountryCode="BRA" District="Bahia" Population="253587"/>
+  <city ID="284" Name="Uberaba" CountryCode="BRA" District="Minas Gerais" Population="249225"/>
+  <city ID="285" Name="Paulista" CountryCode="BRA" District="Pernambuco" Population="248473"/>
+  <city ID="286" Name="Limeira" CountryCode="BRA" District="S&#195;&#163;o Paulo" Population="245497"/>
+  <city ID="287" Name="Blumenau" CountryCode="BRA" District="Santa Catarina" Population="244379"/>
+  <city ID="288" Name="Caruaru" CountryCode="BRA" District="Pernambuco" Population="244247"/>
+  <city ID="289" Name="Santar&#195;&#169;m" CountryCode="BRA" District="Par&#195;&#161;" Population="241771"/>
+  <city ID="290" Name="Volta Redonda" CountryCode="BRA" District="Rio de Janeiro" Population="240315"/>
+  <city ID="291" Name="Novo Hamburgo" CountryCode="BRA" District="Rio Grande do Sul" Population="239940"/>
+  <city ID="292" Name="Caucaia" CountryCode="BRA" District="Cear&#195;&#161;" Population="238738"/>
+  <city ID="293" Name="Santa Maria" CountryCode="BRA" District="Rio Grande do Sul" Population="238473"/>
+  <city ID="294" Name="Cascavel" CountryCode="BRA" District="Paran&#195;&#161;" Population="237510"/>
+  <city ID="295" Name="Guaruj&#195;&#161;" CountryCode="BRA" District="S&#195;&#163;o Paulo" Population="237206"/>
+  <city ID="296" Name="Ribeir&#195;&#163;o das Neves" CountryCode="BRA" District="Minas Gerais" Population="232685"/>
+  <city ID="297" Name="Governador Valadares" CountryCode="BRA" District="Minas Gerais" Population="231724"/>
+  <city ID="298" Name="Taubat&#195;&#169;" CountryCode="BRA" District="S&#195;&#163;o Paulo" Population="229130"/>
+  <city ID="299" Name="Imperatriz" CountryCode="BRA" District="Maranh&#195;&#163;o" Population="224564"/>
+  <city ID="300" Name="Gravata&#195;&#173;" CountryCode="BRA" District="Rio Grande do Sul" Population="223011"/>
+  <city ID="301" Name="Embu" CountryCode="BRA" District="S&#195;&#163;o Paulo" Population="222223"/>
+  <city ID="302" Name="Mossor&#195;&#179;" CountryCode="BRA" District="Rio Grande do Norte" Population="214901"/>
+  <city ID="303" Name="V&#195;&#161;rzea Grande" CountryCode="BRA" District="Mato Grosso" Population="214435"/>
+  <city ID="304" Name="Petrolina" CountryCode="BRA" District="Pernambuco" Population="210540"/>
+  <city ID="305" Name="Barueri" CountryCode="BRA" District="S&#195;&#163;o Paulo" Population="208426"/>
+  <city ID="306" Name="Viam&#195;&#163;o" CountryCode="BRA" District="Rio Grande do Sul" Population="207557"/>
+  <city ID="307" Name="Ipatinga" CountryCode="BRA" District="Minas Gerais" Population="206338"/>
+  <city ID="308" Name="Juazeiro" CountryCode="BRA" District="Bahia" Population="201073"/>
+  <city ID="309" Name="Juazeiro do Norte" CountryCode="BRA" District="Cear&#195;&#161;" Population="199636"/>
+  <city ID="310" Name="Tabo&#195;&#163;o da Serra" CountryCode="BRA" District="S&#195;&#163;o Paulo" Population="197550"/>
+  <city ID="311" Name="S&#195;&#163;o Jos&#195;&#169; dos Pinhais" CountryCode="BRA" District="Paran&#195;&#161;" Population="196884"/>
+  <city ID="312" Name="Mag&#195;&#169;" CountryCode="BRA" District="Rio de Janeiro" Population="196147"/>
+  <city ID="313" Name="Suzano" CountryCode="BRA" District="S&#195;&#163;o Paulo" Population="195434"/>
+  <city ID="314" Name="S&#195;&#163;o Leopoldo" CountryCode="BRA" District="Rio Grande do Sul" Population="189258"/>
+  <city ID="315" Name="Mar&#195;&#173;lia" CountryCode="BRA" District="S&#195;&#163;o Paulo" Population="188691"/>
+  <city ID="316" Name="S&#195;&#163;o Carlos" CountryCode="BRA" District="S&#195;&#163;o Paulo" Population="187122"/>
+  <city ID="317" Name="Sumar&#195;&#169;" CountryCode="BRA" District="S&#195;&#163;o Paulo" Population="186205"/>
+  <city ID="318" Name="Presidente Prudente" CountryCode="BRA" District="S&#195;&#163;o Paulo" Population="185340"/>
+  <city ID="319" Name="Divin&#195;&#179;polis" CountryCode="BRA" District="Minas Gerais" Population="185047"/>
+  <city ID="320" Name="Sete Lagoas" CountryCode="BRA" District="Minas Gerais" Population="182984"/>
+  <city ID="321" Name="Rio Grande" CountryCode="BRA" District="Rio Grande do Sul" Population="182222"/>
+  <city ID="322" Name="Itabuna" CountryCode="BRA" District="Bahia" Population="182148"/>
+  <city ID="323" Name="Jequi&#195;&#169;" CountryCode="BRA" District="Bahia" Population="179128"/>
+  <city ID="324" Name="Arapiraca" CountryCode="BRA" District="Alagoas" Population="178988"/>
+  <city ID="325" Name="Colombo" CountryCode="BRA" District="Paran&#195;&#161;" Population="177764"/>
+  <city ID="326" Name="Americana" CountryCode="BRA" District="S&#195;&#163;o Paulo" Population="177409"/>
+  <city ID="327" Name="Alvorada" CountryCode="BRA" District="Rio Grande do Sul" Population="175574"/>
+  <city ID="328" Name="Araraquara" CountryCode="BRA" District="S&#195;&#163;o Paulo" Population="174381"/>
+  <city ID="329" Name="Itabora&#195;&#173;" CountryCode="BRA" District="Rio de Janeiro" Population="173977"/>
+  <city ID="330" Name="Santa B&#195;&#161;rbara d&#194;&#180;Oeste" CountryCode="BRA" District="S&#195;&#163;o Paulo" Population="171657"/>
+  <city ID="331" Name="Nova Friburgo" CountryCode="BRA" District="Rio de Janeiro" Population="170697"/>
+  <city ID="332" Name="Jacare&#195;&#173;" CountryCode="BRA" District="S&#195;&#163;o Paulo" Population="170356"/>
+  <city ID="333" Name="Ara&#195;&#167;atuba" CountryCode="BRA" District="S&#195;&#163;o Paulo" Population="169303"/>
+  <city ID="334" Name="Barra Mansa" CountryCode="BRA" District="Rio de Janeiro" Population="168953"/>
+  <city ID="335" Name="Praia Grande" CountryCode="BRA" District="S&#195;&#163;o Paulo" Population="168434"/>
+  <city ID="336" Name="Marab&#195;&#161;" CountryCode="BRA" District="Par&#195;&#161;" Population="167795"/>
+  <city ID="337" Name="Crici&#195;&#186;ma" CountryCode="BRA" District="Santa Catarina" Population="167661"/>
+  <city ID="338" Name="Boa Vista" CountryCode="BRA" District="Roraima" Population="167185"/>
+  <city ID="339" Name="Passo Fundo" CountryCode="BRA" District="Rio Grande do Sul" Population="166343"/>
+  <city ID="340" Name="Dourados" CountryCode="BRA" District="Mato Grosso do Sul" Population="164716"/>
+  <city ID="341" Name="Santa Luzia" CountryCode="BRA" District="Minas Gerais" Population="164704"/>
+  <city ID="342" Name="Rio Claro" CountryCode="BRA" District="S&#195;&#163;o Paulo" Population="163551"/>
+  <city ID="343" Name="Maracana&#195;&#186;" CountryCode="BRA" District="Cear&#195;&#161;" Population="162022"/>
+  <city ID="344" Name="Guarapuava" CountryCode="BRA" District="Paran&#195;&#161;" Population="160510"/>
+  <city ID="345" Name="Rondon&#195;&#179;polis" CountryCode="BRA" District="Mato Grosso" Population="155115"/>
+  <city ID="346" Name="S&#195;&#163;o Jos&#195;&#169;" CountryCode="BRA" District="Santa Catarina" Population="155105"/>
+  <city ID="347" Name="Cachoeiro de Itapemirim" CountryCode="BRA" District="Esp&#195;&#173;rito Santo" Population="155024"/>
+  <city ID="348" Name="Nil&#195;&#179;polis" CountryCode="BRA" District="Rio de Janeiro" Population="153383"/>
+  <city ID="349" Name="Itapevi" CountryCode="BRA" District="S&#195;&#163;o Paulo" Population="150664"/>
+  <city ID="350" Name="Cabo de Santo Agostinho" CountryCode="BRA" District="Pernambuco" Population="149964"/>
+  <city ID="351" Name="Cama&#195;&#167;ari" CountryCode="BRA" District="Bahia" Population="149146"/>
+  <city ID="352" Name="Sobral" CountryCode="BRA" District="Cear&#195;&#161;" Population="146005"/>
+  <city ID="353" Name="Itaja&#195;&#173;" CountryCode="BRA" District="Santa Catarina" Population="145197"/>
+  <city ID="354" Name="Chapec&#195;&#179;" CountryCode="BRA" District="Santa Catarina" Population="144158"/>
+  <city ID="355" Name="Cotia" CountryCode="BRA" District="S&#195;&#163;o Paulo" Population="140042"/>
+  <city ID="356" Name="Lages" CountryCode="BRA" District="Santa Catarina" Population="139570"/>
+  <city ID="357" Name="Ferraz de Vasconcelos" CountryCode="BRA" District="S&#195;&#163;o Paulo" Population="139283"/>
+  <city ID="358" Name="Indaiatuba" CountryCode="BRA" District="S&#195;&#163;o Paulo" Population="135968"/>
+  <city ID="359" Name="Hortol&#195;&#162;ndia" CountryCode="BRA" District="S&#195;&#163;o Paulo" Population="135755"/>
+  <city ID="360" Name="Caxias" CountryCode="BRA" District="Maranh&#195;&#163;o" Population="133980"/>
+  <city ID="361" Name="S&#195;&#163;o Caetano do Sul" CountryCode="BRA" District="S&#195;&#163;o Paulo" Population="133321"/>
+  <city ID="362" Name="Itu" CountryCode="BRA" District="S&#195;&#163;o Paulo" Population="132736"/>
+  <city ID="363" Name="Nossa Senhora do Socorro" CountryCode="BRA" District="Sergipe" Population="131351"/>
+  <city ID="364" Name="Parna&#195;&#173;ba" CountryCode="BRA" District="Piau&#195;&#173;" Population="129756"/>
+  <city ID="365" Name="Po&#195;&#167;os de Caldas" CountryCode="BRA" District="Minas Gerais" Population="129683"/>
+  <city ID="366" Name="Teres&#195;&#179;polis" CountryCode="BRA" District="Rio de Janeiro" Population="128079"/>
+  <city ID="367" Name="Barreiras" CountryCode="BRA" District="Bahia" Population="127801"/>
+  <city ID="368" Name="Castanhal" CountryCode="BRA" District="Par&#195;&#161;" Population="127634"/>
+  <city ID="369" Name="Alagoinhas" CountryCode="BRA" District="Bahia" Population="126820"/>
+  <city ID="370" Name="Itapecerica da Serra" CountryCode="BRA" District="S&#195;&#163;o Paulo" Population="126672"/>
+  <city ID="371" Name="Uruguaiana" CountryCode="BRA" District="Rio Grande do Sul" Population="126305"/>
+  <city ID="372" Name="Paranagu&#195;&#161;" CountryCode="BRA" District="Paran&#195;&#161;" Population="126076"/>
+  <city ID="373" Name="Ibirit&#195;&#169;" CountryCode="BRA" District="Minas Gerais" Population="125982"/>
+  <city ID="374" Name="Timon" CountryCode="BRA" District="Maranh&#195;&#163;o" Population="125812"/>
+  <city ID="375" Name="Luzi&#195;&#162;nia" CountryCode="BRA" District="Goi&#195;&#161;s" Population="125597"/>
+  <city ID="376" Name="Maca&#195;&#169;" CountryCode="BRA" District="Rio de Janeiro" Population="125597"/>
+  <city ID="377" Name="Te&#195;&#179;filo Otoni" CountryCode="BRA" District="Minas Gerais" Population="124489"/>
+  <city ID="378" Name="Moji-Gua&#195;&#167;u" CountryCode="BRA" District="S&#195;&#163;o Paulo" Population="123782"/>
+  <city ID="379" Name="Palmas" CountryCode="BRA" District="Tocantins" Population="121919"/>
+  <city ID="380" Name="Pindamonhangaba" CountryCode="BRA" District="S&#195;&#163;o Paulo" Population="121904"/>
+  <city ID="381" Name="Francisco Morato" CountryCode="BRA" District="S&#195;&#163;o Paulo" Population="121197"/>
+  <city ID="382" Name="Bag&#195;&#169;" CountryCode="BRA" District="Rio Grande do Sul" Population="120793"/>
+  <city ID="383" Name="Sapucaia do Sul" CountryCode="BRA" District="Rio Grande do Sul" Population="120217"/>
+  <city ID="384" Name="Cabo Frio" CountryCode="BRA" District="Rio de Janeiro" Population="119503"/>
+  <city ID="385" Name="Itapetininga" CountryCode="BRA" District="S&#195;&#163;o Paulo" Population="119391"/>
+  <city ID="386" Name="Patos de Minas" CountryCode="BRA" District="Minas Gerais" Population="119262"/>
+  <city ID="387" Name="Camaragibe" CountryCode="BRA" District="Pernambuco" Population="118968"/>
+  <city ID="388" Name="Bragan&#195;&#167;a Paulista" CountryCode="BRA" District="S&#195;&#163;o Paulo" Population="116929"/>
+  <city ID="389" Name="Queimados" CountryCode="BRA" District="Rio de Janeiro" Population="115020"/>
+  <city ID="390" Name="Aragua&#195;&#173;na" CountryCode="BRA" District="Tocantins" Population="114948"/>
+  <city ID="391" Name="Garanhuns" CountryCode="BRA" District="Pernambuco" Population="114603"/>
+  <city ID="392" Name="Vit&#195;&#179;ria de Santo Ant&#195;&#163;o" CountryCode="BRA" District="Pernambuco" Population="113595"/>
+  <city ID="393" Name="Santa Rita" CountryCode="BRA" District="Para&#195;&#173;ba" Population="113135"/>
+  <city ID="394" Name="Barbacena" CountryCode="BRA" District="Minas Gerais" Population="113079"/>
+  <city ID="395" Name="Abaetetuba" CountryCode="BRA" District="Par&#195;&#161;" Population="111258"/>
+  <city ID="396" Name="Ja&#195;&#186;" CountryCode="BRA" District="S&#195;&#163;o Paulo" Population="109965"/>
+  <city ID="397" Name="Lauro de Freitas" CountryCode="BRA" District="Bahia" Population="109236"/>
+  <city ID="398" Name="Franco da Rocha" CountryCode="BRA" District="S&#195;&#163;o Paulo" Population="108964"/>
+  <city ID="399" Name="Teixeira de Freitas" CountryCode="BRA" District="Bahia" Population="108441"/>
+  <city ID="400" Name="Varginha" CountryCode="BRA" District="Minas Gerais" Population="108314"/>
+  <city ID="401" Name="Ribeir&#195;&#163;o Pires" CountryCode="BRA" District="S&#195;&#163;o Paulo" Population="108121"/>
+  <city ID="402" Name="Sabar&#195;&#161;" CountryCode="BRA" District="Minas Gerais" Population="107781"/>
+  <city ID="403" Name="Catanduva" CountryCode="BRA" District="S&#195;&#163;o Paulo" Population="107761"/>
+  <city ID="404" Name="Rio Verde" CountryCode="BRA" District="Goi&#195;&#161;s" Population="107755"/>
+  <city ID="405" Name="Botucatu" CountryCode="BRA" District="S&#195;&#163;o Paulo" Population="107663"/>
+  <city ID="406" Name="Colatina" CountryCode="BRA" District="Esp&#195;&#173;rito Santo" Population="107354"/>
+  <city ID="407" Name="Santa Cruz do Sul" CountryCode="BRA" District="Rio Grande do Sul" Population="106734"/>
+  <city ID="408" Name="Linhares" CountryCode="BRA" District="Esp&#195;&#173;rito Santo" Population="106278"/>
+  <city ID="409" Name="Apucarana" CountryCode="BRA" District="Paran&#195;&#161;" Population="105114"/>
+  <city ID="410" Name="Barretos" CountryCode="BRA" District="S&#195;&#163;o Paulo" Population="104156"/>
+  <city ID="411" Name="Guaratinguet&#195;&#161;" CountryCode="BRA" District="S&#195;&#163;o Paulo" Population="103433"/>
+  <city ID="412" Name="Cachoeirinha" CountryCode="BRA" District="Rio Grande do Sul" Population="103240"/>
+  <city ID="413" Name="Cod&#195;&#179;" CountryCode="BRA" District="Maranh&#195;&#163;o" Population="103153"/>
+  <city ID="414" Name="Jaragu&#195;&#161; do Sul" CountryCode="BRA" District="Santa Catarina" Population="102580"/>
+  <city ID="415" Name="Cubat&#195;&#163;o" CountryCode="BRA" District="S&#195;&#163;o Paulo" Population="102372"/>
+  <city ID="416" Name="Itabira" CountryCode="BRA" District="Minas Gerais" Population="102217"/>
+  <city ID="417" Name="Itaituba" CountryCode="BRA" District="Par&#195;&#161;" Population="101320"/>
+  <city ID="418" Name="Araras" CountryCode="BRA" District="S&#195;&#163;o Paulo" Population="101046"/>
+  <city ID="419" Name="Resende" CountryCode="BRA" District="Rio de Janeiro" Population="100627"/>
+  <city ID="420" Name="Atibaia" CountryCode="BRA" District="S&#195;&#163;o Paulo" Population="100356"/>
+  <city ID="421" Name="Pouso Alegre" CountryCode="BRA" District="Minas Gerais" Population="100028"/>
+  <city ID="422" Name="Toledo" CountryCode="BRA" District="Paran&#195;&#161;" Population="99387"/>
+  <city ID="423" Name="Crato" CountryCode="BRA" District="Cear&#195;&#161;" Population="98965"/>
+  <city ID="424" Name="Passos" CountryCode="BRA" District="Minas Gerais" Population="98570"/>
+  <city ID="425" Name="Araguari" CountryCode="BRA" District="Minas Gerais" Population="98399"/>
+  <city ID="426" Name="S&#195;&#163;o Jos&#195;&#169; de Ribamar" CountryCode="BRA" District="Maranh&#195;&#163;o" Population="98318"/>
+  <city ID="427" Name="Pinhais" CountryCode="BRA" District="Paran&#195;&#161;" Population="98198"/>
+  <city ID="428" Name="Sert&#195;&#163;ozinho" CountryCode="BRA" District="S&#195;&#163;o Paulo" Population="98140"/>
+  <city ID="429" Name="Conselheiro Lafaiete" CountryCode="BRA" District="Minas Gerais" Population="97507"/>
+  <city ID="430" Name="Paulo Afonso" CountryCode="BRA" District="Bahia" Population="97291"/>
+  <city ID="431" Name="Angra dos Reis" CountryCode="BRA" District="Rio de Janeiro" Population="96864"/>
+  <city ID="432" Name="Eun&#195;&#161;polis" CountryCode="BRA" District="Bahia" Population="96610"/>
+  <city ID="433" Name="Salto" CountryCode="BRA" District="S&#195;&#163;o Paulo" Population="96348"/>
+  <city ID="434" Name="Ourinhos" CountryCode="BRA" District="S&#195;&#163;o Paulo" Population="96291"/>
+  <city ID="435" Name="Parnamirim" CountryCode="BRA" District="Rio Grande do Norte" Population="96210"/>
+  <city ID="436" Name="Jacobina" CountryCode="BRA" District="Bahia" Population="96131"/>
+  <city ID="437" Name="Coronel Fabriciano" CountryCode="BRA" District="Minas Gerais" Population="95933"/>
+  <city ID="438" Name="Birigui" CountryCode="BRA" District="S&#195;&#163;o Paulo" Population="94685"/>
+  <city ID="439" Name="Tatu&#195;&#173;" CountryCode="BRA" District="S&#195;&#163;o Paulo" Population="93897"/>
+  <city ID="440" Name="Ji-Paran&#195;&#161;" CountryCode="BRA" District="Rond&#195;&#180;nia" Population="93346"/>
+  <city ID="441" Name="Bacabal" CountryCode="BRA" District="Maranh&#195;&#163;o" Population="93121"/>
+  <city ID="442" Name="Camet&#195;&#161;" CountryCode="BRA" District="Par&#195;&#161;" Population="92779"/>
+  <city ID="443" Name="Gua&#195;&#173;ba" CountryCode="BRA" District="Rio Grande do Sul" Population="92224"/>
+  <city ID="444" Name="S&#195;&#163;o Louren&#195;&#167;o da Mata" CountryCode="BRA" District="Pernambuco" Population="91999"/>
+  <city ID="445" Name="Santana do Livramento" CountryCode="BRA" District="Rio Grande do Sul" Population="91779"/>
+  <city ID="446" Name="Votorantim" CountryCode="BRA" District="S&#195;&#163;o Paulo" Population="91777"/>
+  <city ID="447" Name="Campo Largo" CountryCode="BRA" District="Paran&#195;&#161;" Population="91203"/>
+  <city ID="448" Name="Patos" CountryCode="BRA" District="Para&#195;&#173;ba" Population="90519"/>
+  <city ID="449" Name="Ituiutaba" CountryCode="BRA" District="Minas Gerais" Population="90507"/>
+  <city ID="450" Name="Corumb&#195;&#161;" CountryCode="BRA" District="Mato Grosso do Sul" Population="90111"/>
+  <city ID="451" Name="Palho&#195;&#167;a" CountryCode="BRA" District="Santa Catarina" Population="89465"/>
+  <city ID="452" Name="Barra do Pira&#195;&#173;" CountryCode="BRA" District="Rio de Janeiro" Population="89388"/>
+  <city ID="453" Name="Bento Gon&#195;&#167;alves" CountryCode="BRA" District="Rio Grande do Sul" Population="89254"/>
+  <city ID="454" Name="Po&#195;&#161;" CountryCode="BRA" District="S&#195;&#163;o Paulo" Population="89236"/>
+  <country/>
+  <countrylanguage/>
+</dataset>
