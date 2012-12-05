@@ -6,6 +6,7 @@ import java.util.Properties;
 import org.dbunit.Assertion;
 import org.dbunit.database.IDatabaseConnection;
 import org.dbunit.dataset.IDataSet;
+import org.dbunit.dataset.ITable;
 import org.dbunit.dataset.xml.FlatXmlDataSetBuilder;
 import org.junit.AfterClass;
 import org.junit.BeforeClass;
@@ -47,7 +48,18 @@ public class TestCases {
 		System.out.println("test 1");
 		doSomething.addPopulation();
 		IDataSet fullDataSet = connection.createDataSet();
+		System.out.println(connection.getConnection().isClosed());
 		IDataSet expected = new FlatXmlDataSetBuilder().build(ClassLoader.class.getResourceAsStream(prop.getProperty("db.expectedOutputFileName")));
+		ITable blah = expected.getTable("city");
+		/*fullDataSet.getTable("city");
+		fullDataSet.getTable("country");
+		fullDataSet.getTable("countrylanguage");*/
+		/*for(String str:expected.getTableNames()){
+			System.out.println(str);
+		}
+		for(String str:fullDataSet.getTableNames()){
+			System.out.println(str);
+		}*/
 		Assertion.assertEquals(expected, fullDataSet);
 	}
 	

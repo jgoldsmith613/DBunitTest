@@ -1,8 +1,8 @@
-$BIN = "/home/michael/workspace/puppet/dbunitpoc/bin"
-$SCHEMA = "/home/michael/workspace/puppet/DBunitTest/src/test/resources/WorldDDL.sql"
+$BIN = "/home/justin/workspace/DBunitTest/DBunitTest/bin"
+$SCHEMA = "/home/justin/workspace/DBunitTest/DBunitTest/src/test/resources/WorldDDL.sql"
 
 #linux user data
-$user = "michael"
+$user = "justin"
 
 # standard mysql root user
 $mysqlRootUser = "root"
@@ -11,7 +11,7 @@ $mysqlRootPass = "redhat"
 #app specific data
 $appUser = "dbunit"
 $appPass = "redhat"
-$dbName = "test"
+$dbName = "blahblah"
 
 file{"database-schema":
   ensure => present,
@@ -41,7 +41,7 @@ exec { "set-mysql-password":
 
 exec { "create-database" :
     path => ["/bin", "/usr/bin"],
-    command => "mysql -u $mysqlRootUser -p$mysqlRootPass -e \"create database world;\"",
+    command => "mysql -u $mysqlRootUser -p$mysqlRootPass -e \"create database $dbName;\"",
     require => Service["mysqld"]
 }
 
@@ -57,4 +57,13 @@ exec { "create-application-user" :
     require => Service["mysqld"]
 }
 
-Exec["set-mysql-password"] -> Exec["create-database"] -> Exec["import-schema"] -> Exec["create-application-user"]
+
+
+exec { "add-permission-to-user" :
+    path => ["/bin", "/usr/bin"],
+    command => "mysql -u $mysqlRootUser -p$mysqlRootPass -e  \"grant all privileges on $dbName.* to '$appUser'@'localhost';\"",
+    require => Service["mysqld"]
+}
+
+
+Exec["set-mysql-password"] -> Exec["create-database"] -> Exec["import-schema"] -> Exec["create-application-user"] -> Exec["add-permission-to-user"]

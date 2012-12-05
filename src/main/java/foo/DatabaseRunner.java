@@ -3,6 +3,7 @@ package foo;
 import java.sql.Connection;
 import java.sql.DriverManager;
 
+import org.dbunit.database.DatabaseConfig;
 import org.dbunit.database.DatabaseConnection;
 import org.dbunit.database.IDatabaseConnection;
 import org.springframework.context.ApplicationContext;
@@ -43,6 +44,11 @@ public class DatabaseRunner {
 		
 		Connection jdbcConnection = getConnection(jdbcDriver, databaseLocation, userID, password);
 		IDatabaseConnection connection = new DatabaseConnection(jdbcConnection);
+		/*DatabaseConfig config = connection.getConfig();
+		System.out.println(config.getProperty(DatabaseConfig.FEATURE_CASE_SENSITIVE_TABLE_NAMES));
+		config.setProperty(DatabaseConfig.FEATURE_CASE_SENSITIVE_TABLE_NAMES, true);
+		System.out.println(config.getProperty(DatabaseConfig.FEATURE_CASE_SENSITIVE_TABLE_NAMES));
+		*/
 		return connection;
 	}
 	

@@ -19,10 +19,10 @@
 -- Table structure for table `city`
 --
 
-DROP TABLE IF EXISTS `city`;
+DROP TABLE IF EXISTS `CITY`;
 /*!40101 SET @saved_cs_client     = @@character_set_client */;
 /*!40101 SET character_set_client = utf8 */;
-CREATE TABLE `city` (
+CREATE TABLE `CITY` (
   `ID` int(11) NOT NULL AUTO_INCREMENT,
   `Name` char(35) NOT NULL DEFAULT '',
   `CountryCode` char(3) NOT NULL DEFAULT '',
@@ -36,10 +36,10 @@ CREATE TABLE `city` (
 -- Table structure for table `country`
 --
 
-DROP TABLE IF EXISTS `country`;
+DROP TABLE IF EXISTS `COUNTRY`;
 /*!40101 SET @saved_cs_client     = @@character_set_client */;
 /*!40101 SET character_set_client = utf8 */;
-CREATE TABLE `country` (
+CREATE TABLE `COUNTRY` (
   `Code` char(3) NOT NULL DEFAULT '',
   `Name` char(52) NOT NULL DEFAULT '',
   `Continent` enum('Asia','Europe','North America','Africa','Oceania','Antarctica','South America') NOT NULL DEFAULT 'Asia',
@@ -63,10 +63,10 @@ CREATE TABLE `country` (
 -- Table structure for table `countrylanguage`
 --
 
-DROP TABLE IF EXISTS `countrylanguage`;
+DROP TABLE IF EXISTS `COUNTRYLANGUAGE`;
 /*!40101 SET @saved_cs_client     = @@character_set_client */;
 /*!40101 SET character_set_client = utf8 */;
-CREATE TABLE `countrylanguage` (
+CREATE TABLE `COUNTRYLANGUAGE` (
   `CountryCode` char(3) NOT NULL DEFAULT '',
   `Language` char(30) NOT NULL DEFAULT '',
   `IsOfficial` enum('T','F') NOT NULL DEFAULT 'F',

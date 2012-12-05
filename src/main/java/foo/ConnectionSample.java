@@ -32,9 +32,9 @@ public class ConnectionSample {
 	 */
 	public static void main(String[] args) throws Exception {
 	
-		//testJDBCConnection();
-		TurnToXML();
-		makeTables();
+		testJDBCConnection();
+		/*TurnToXML();
+		makeTables();*/
 		 
 		
 	}
@@ -44,20 +44,20 @@ public class ConnectionSample {
 	public static void testJDBCConnection() throws Exception{
 		Class.forName("com.mysql.jdbc.Driver");
 		Connection connect = DriverManager
-		          .getConnection("jdbc:mysql://localhost:3306/", "root", "0613");
-		PreparedStatement ps = connect.prepareStatement("CREATE DATABASE wala");
-		ps.execute();
+		          .getConnection("jdbc:mysql://localhost:3306/blahblah", "dbunit", "redhat");
+		PreparedStatement ps = connect.prepareStatement("SELECT * from city");
+		ResultSet rs = ps.executeQuery();
 		
-		/* while (rs.next()) {
+		 while (rs.next()) {
 			 System.out.println(rs.getString("name"));
-		 }*/
+		 }
 	}
 	
 	public static void TurnToXML() throws Exception{
 		 // database connection
         Class.forName("com.mysql.jdbc.Driver");
         Connection jdbcConnection = DriverManager.getConnection(
-        		"jdbc:mysql://localhost:3306/world", "root", "0613");
+        		"jdbc:mysql://localhost:3306/world", "dbunit", "redhat");
         IDatabaseConnection connection = new DatabaseConnection(jdbcConnection);
 
         // partial database export

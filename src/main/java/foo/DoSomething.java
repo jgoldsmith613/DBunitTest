@@ -20,7 +20,7 @@ public class DoSomething {
 	 */
 	public void addPopulation() throws Exception{
 		Connection connection = DatabaseRunner.getConnection(jdbcDriver, databaseLocation, userID, password);
-		PreparedStatement ps = connection.prepareStatement("UPDATE city SET Population = Population+10 WHERE ID = 1");
+		PreparedStatement ps = connection.prepareStatement("UPDATE CITY SET Population = Population+10 WHERE ID = 1");
 		ps.execute();
 		connection.close();
 	}
