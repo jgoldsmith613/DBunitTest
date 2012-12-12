@@ -1,0 +1,6 @@
+this is not a puppet master layout, this is just using puppet modules locally as I would do on a master for the agent to load.
+
+you need to put this whole folder on the module path.  you can get the path by running this command
+puppet config print modulepath
+
+Tommorrow i will try to get it working as a Master/Agent, unless you do.  Let me know.

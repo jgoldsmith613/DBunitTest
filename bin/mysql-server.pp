@@ -1,22 +1,19 @@
-$BIN = "/home/justin/workspace/DBunitTest/DBunitTest/bin"
-$SCHEMA = "/home/justin/workspace/DBunitTest/DBunitTest/src/test/resources/WorldDDL.sql"
+include install_mysql
+
+$BIN = $install_mysql::BIN
+$SCHEMA = $install_mysql::SCHEMA
 
 #linux user data
-$user = "justin"
+$user = $install_mysql::user
 
 # standard mysql root user
-$mysqlRootUser = "root"
-$mysqlRootPass = "redhat"
+$mysqlRootUser = $install_mysql::mysqlRootUser
+$mysqlRootPass = $install_mysql::mysqlRootPass
 
 #app specific data
-$appUser = "dbunit"
-$appPass = "redhat"
-$dbName = "blahblah"
-
-file{"database-schema":
-  ensure => present,
-  path => "$SCHEMA"
-}
+$appUser = $install_mysql::appUser
+$appPass = $install_mysql::appPass
+$dbName = $install_mysql::dbName
 
 package {"mysql-server":
   ensure => installed
@@ -65,5 +62,15 @@ exec { "add-permission-to-user" :
     require => Service["mysqld"]
 }
 
+notify {"blah" :
+	message => "blahblah  $SCHEMA"
+}
 
-Exec["set-mysql-password"] -> Exec["create-database"] -> Exec["import-schema"] -> Exec["create-application-user"] -> Exec["add-permission-to-user"]
+file{"database-schema":
+  ensure => present,
+  path => "$SCHEMA"
+}
+
+
+Notify ["blah"] -> Exec["set-mysql-password"] -> Exec["create-database"] -> Exec["import-schema"] -> Exec["create-application-user"] -> Exec["add-permission-to-user"]
+
